@@ -36,7 +36,7 @@ OF SUCH DAMAGE.
 #include "systick.h"
 #include <stdio.h>
 #include "main.h"
-#include "excise.h"
+#include "exercise.h"
 #include "sys.h"
 
 /*!

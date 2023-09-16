@@ -1,5 +1,5 @@
-#ifndef _BSP_EXCISE_
-#define _BSP_EXCISE_
+#ifndef _BSP_EXERCISE_
+#define _BSP_EXERCISE_
 
 #include "gd32f4xx.h"
 #include "systick.h"
